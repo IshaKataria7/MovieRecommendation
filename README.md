@@ -19,7 +19,6 @@ python app.py
 * scrape.py - Used tp scrape the IMDB data
 * heroku - Contains the web app for movie recommendation using the **Matrix Factorization Method** -> (https://movie-recomm-1.herokuapp.com/)
 * heroku2 - Contains the web app for movie recommendation using the **User based collaborative filtering** ->(https://movie-recomm-2.herokuapp.com/)
-* heroku3 - Contains the web app for movie recommendation using the **Item based collaborative filtering**-> (https://movie-recomm-3.herokuapp.com/) 
 
 >This has been deployed but is not working due to some server load issue but will work in localhost
 > The ratings in the app should be an integer ranging from 0-5
